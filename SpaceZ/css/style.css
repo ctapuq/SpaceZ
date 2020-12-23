@@ -84,7 +84,6 @@ nav li {
     padding-left: 24px;
 }
 
-/* Первый экран */
 .main_screen {
     display: flex;
 }
@@ -132,8 +131,6 @@ nav li {
     width: 240px;
 }
 
-
-/* Преимущества */
 .advantages {
     display: flex;
     flex-wrap: nowrap;
@@ -149,13 +146,11 @@ nav li {
     padding-bottom: 40px;
 }
 
-/* Контент */
 .content {
     background: white;
     color: black;
 }
 
-/* Карта */
 .moon-vacation {
     display: flex;
     align-content: space-around;
@@ -181,7 +176,6 @@ nav li {
     color: #222222;
 }
 
-/* Рекомендации */
 .recommendations {
     display: flex;
     list-style: none;
